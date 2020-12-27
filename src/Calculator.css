@@ -2,3 +2,22 @@
   height: 400px;
   width: 300px;
 }
+
+.timesPhi-textarea {
+  height: 200px;
+  width: 399px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  text-align:center;
+  line-height: 200px;
+}
+
+.overPhi-textarea{
+    height: 200px;
+    width: 247px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align:center;
+    line-height: 200px;
+
+}

@@ -52,7 +52,6 @@ class Calculator extends React.Component {
     return (
           <div>
             {timesPhiElement}
-            <br/>
             {overPhiElement}
           </div>
     );
