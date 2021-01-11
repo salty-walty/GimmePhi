@@ -50,7 +50,7 @@ class Calculator extends React.Component {
 
 
     return (
-          <div>
+          <div className="calc-div">
             {timesPhiElement}
             {overPhiElement}
           </div>
